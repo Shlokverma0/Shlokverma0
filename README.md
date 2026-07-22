@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=SHLOK%20VERMA&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20%7C%20JavaScript%20Engineer&descAlignY=80&descColor=CCCCCC" width="100%"/>
+# SHLOK VERMA
 
-<br/>
+### Full-Stack Developer | AI & ML | JavaScript Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Building+with+C%2B%2B%2C+Python+%26+JavaScript;Open+Source+Contributor+%40+GSSoC;Final+Year+CSE+Student+%40+BIT+Meerut)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+with+C%2B%2B%2C+Python+%26+JavaScript;Open+Source+Contributor+%40+GSSoC;Final+Year+CSE+Student+%40+BIT+Meerut)
 
 </div>
 
@@ -177,6 +177,6 @@ English · Hindi · German
 
 *"Consistency beats intensity."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" width="100%"/>
+---
 
 </div>
