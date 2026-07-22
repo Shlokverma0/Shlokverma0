@@ -1,182 +1,195 @@
-<div align="center">
+[![](https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,20,24&height=200&section=header&text=Shlok%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20%7C%20JavaScript%20Engineer&descSize=16&descAlignY=60)](https://capsule-render.vercel.app)
 
-# SHLOK VERMA
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+full-stack+systems%2C+DSA+problems+solved.%3B+Full+Stack+%2B+AI%2FML+%2B+Competitive+Programming.)](https://git.io/typing-svg)
 
-### Full-Stack Developer | AI & ML | JavaScript Engineer
+[![](https://img.shields.io/badge/B.Tech%20CSE%20(AI%2FML)-000000?style=flat-square&logo=graduation-cap&logoColor=white)](#)
+[![](https://img.shields.io/badge/Batch-2023--2027-5B21B6?style=flat-square)](#)
+[![](https://img.shields.io/badge/📍-Meerut,%20India-4C1D95?style=flat-square)](#)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+with+C%2B%2B%2C+Python+%26+JavaScript;Open+Source+Contributor+%40+GSSoC;Final+Year+CSE+Student+%40+BIT+Meerut)
-
-</div>
-
----
-
-### `whoami`
-
-```
-Name        : Shlok Verma
-Role        : Full-Stack Developer | AI & ML Enthusiast
-Education   : B.Tech CSE, Bharat Institute of Technology (AKTU)
-Location    : Meerut, India
-Status      : Final Year Student (2023 - 2027)
-Focus       : Software Development, AI, Cybersecurity
-```
-
-Motivated final-year Computer Science student passionate about full-stack web development, computer vision, and competitive programming. Active open-source contributor collaborating with developers worldwide.
+[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Shlokverma0)
+[![](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-verma-113713363)
+[![](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshlok24@gmail.com)
+[![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlokverma0)
 
 ---
 
-### `experience`
+## ◈ About
 
-| Role | Organization | Duration | Highlights |
-|---|---|---|---|
-| Open Source Contributor | GirlScript Summer of Code (GSSoC) | May 2026 - Present | Contributed to 5+ repos, resolved 10+ bugs, collaborated with 15+ maintainers via PRs & code reviews |
+I'm a **final-year Computer Science undergraduate** at Bharat Institute of Technology, AKTU (2023–2027), focused on **full-stack development, applied AI/ML, and cybersecurity**. My interest lies in taking systems from idea to a working product — from an OpenCV pipeline to a REST API to a browser-based UI — rather than stopping at a single layer of the stack.
+
+I'm an active **open-source contributor at GirlScript Summer of Code (GSSoC)**, India's largest open-source program with 30,000+ participants, where I collaborate with maintainers across real production repositories through issues, pull requests, and code review.
+
+On the applied side, I've built computer-vision systems (real-time face recognition, hand-gesture detection) that combine ML models with full-stack engineering — Flask APIs, SQLite persistence, and responsive browser UIs — turning a model into something end users can actually interact with.
+
+| **🔭 Currently** | Contributing to open-source repositories via GSSoC |
+|---|---|
+| **🧠 Deepening** | Machine Learning, System Design, Full-Stack Architecture |
+| **📡 Building** | Computer-vision-powered full-stack applications |
+| **✉️ Open To** | Internships · Open Source Collaboration · Full-Stack/AI-ML Roles |
 
 ---
 
-### `tech_stack`
+## ◈ Tech Stack
 
 **Languages**
-```
-JavaScript · TypeScript · Python · C++ · Java · SQL · HTML · CSS
-```
 
-**Frameworks & Libraries**
-```
-React · Next.js · Tailwind CSS · GSAP · AR.js · A-Frame
-```
+![](https://skillicons.dev/icons?i=js,ts,py,cpp,java,html,css&theme=dark)
 
-**Databases**
-```
-MongoDB · PostgreSQL · MySQL
-```
+**Frontend**
+
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
+
+**Backend & Databases**
+
+![](https://skillicons.dev/icons?i=flask,mongodb,postgres,mysql&theme=dark)
 
 **Tools & Platforms**
-```
-Git · GitHub · Docker · Kubernetes
-```
 
-**AI / ML & Vision**
-```
-OpenCV · MediaPipe · face_recognition · Flask
+![](https://skillicons.dev/icons?i=git,github,docker,kubernetes&theme=dark)
+
+---
+
+## ◈ Skill Proficiency
+
+| Domain | Level | Details |
+|---|---|---|
+| Full-Stack Web Development | `████████░░` Advanced | React, Flask, REST APIs, responsive UI design |
+| Computer Vision | `███████░░░` Intermediate–Advanced | OpenCV, MediaPipe, face_recognition, real-time video processing |
+| Programming Languages | `████████░░` Advanced | C++, Python, JavaScript, TypeScript, Java |
+| Database Design | `███████░░░` Intermediate | MongoDB, PostgreSQL, MySQL, SQLite |
+| Open Source Collaboration | `███████░░░` Intermediate | Git workflows, PR reviews, issue resolution at GSSoC |
+| DevOps & Tooling | `██████░░░░` Intermediate | Docker, Kubernetes, Git/GitHub |
+
+---
+
+## ◈ Experience
+
+### Open Source Contributor — GirlScript Summer of Code (GSSoC)
+**May 2026 – Present · Remote**
+
+Contributing to India's largest open-source program (30,000+ participants), working across 5+ repositories under real maintainer review.
+
+- Resolved **10+ bugs** and implemented new features across 5+ open-source repositories
+- Collaborated with **15+ maintainers and contributors** via GitHub pull requests, issues, and code reviews
+- Built hands-on experience with Git/GitHub workflows, agile collaboration, and production-level code standards
+
+![](https://img.shields.io/badge/Open%20Source-000000?style=flat-square)
+![](https://img.shields.io/badge/Git%2FGitHub-5B21B6?style=flat-square)
+![](https://img.shields.io/badge/Code%20Review-4C1D95?style=flat-square)
+
+---
+
+## ◈ Featured Projects
+
+**⬡ Face Attendance Recognition System**
+
+A real-time AI attendance system that replaces manual sign-in with face-based verification — from image capture to attendance record in under 3 seconds.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Flask, OpenCV, face_recognition, SQLite3, HTML/CSS/JS |
+| **Accuracy** | 95%+ recognition accuracy across 20+ users |
+| **Performance** | Attendance logging cut to under 3 seconds per user |
+| **API Layer** | 5 RESTful Flask endpoints for face-match scoring, JSON image handling, and CRUD operations |
+| **Interface** | Browser-based live camera capture UI + real-time dashboard with delete support |
+| **Repository** | [github.com/Shlokverma0](https://github.com/Shlokverma0) |
+
+The pipeline handles the full loop — 5-image face capture, encoding generation, SQLite storage — so the recognition model isn't just a script but a usable end-to-end system with its own dashboard.
+
+**⬡ Hand Gesture Detection System**
+
+A real-time gesture recognition engine built for touchless, camera-driven control interfaces.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, OpenCV, MediaPipe |
+| **Throughput** | 30+ FPS across 2 simultaneous hands |
+| **Latency** | Under 50ms per detection, gesture classification for 5+ distinct gestures |
+| **Precision** | Tracks 21 landmark points per hand (42 total data points/frame) at 90%+ accuracy |
+| **Optimization** | Reduced detection lag by 40%, sustained across 100+ consecutive test frames |
+| **Repository** | [github.com/Shlokverma0](https://github.com/Shlokverma0) |
+
+The landmark-tracking pipeline was tuned specifically to hold frame rate under load — a common failure point in real-time CV demos — rather than only working in ideal conditions.
+
+**⬡ Currency Converter**
+
+A responsive, single-page currency converter with live exchange-rate data and no unnecessary UI friction.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Feature** | Live multi-currency conversion, instant on input change (no convert button) |
+| **UX** | Dynamic light/dark mode with persistent UI state |
+| **Design Detail** | Country flag icons mapped to currency codes for intuitive selection |
+| **Repository** | [github.com/Shlokverma0](https://github.com/Shlokverma0) |
+
+---
+
+## ◈ Education
+
+| Institution | Degree | Duration | Score |
+|---|---|---|---|
+| Bharat Institute of Technology, AKTU | B.Tech, Computer Science | 2023 – 2027 | CGPA: 6.71 |
+| BBSSM Inter College, Meerut | 12th Standard (PCM) | 2018 – 2021 | 65% (12th) · 79% (10th) |
+
+---
+
+## ◈ Certifications & Achievements
+
+| Recognition | Details |
+|---|---|
+| 🏅 AI Foundations | Foundational knowledge of AI, Machine Learning, neural networks & responsible AI practices |
+| 🏅 GSSoC Recognition | Recognized as an active open-source contributor by the GirlScript Foundation |
+| 🏅 GSSoC Contribution | 10+ bugs resolved, 5+ repositories contributed to |
+
+---
+
+## ◈ Languages
+
+![](https://img.shields.io/badge/English-000000?style=flat-square)
+![](https://img.shields.io/badge/Hindi-5B21B6?style=flat-square)
+![](https://img.shields.io/badge/German-4C1D95?style=flat-square)
+
+---
+
+## ◈ GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&icon_color=A855F7&text_color=C4B5FD)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=dark&hide_border=true&background=0D0D1A&ring=5B21B6&fire=A855F7&currStreakLabel=C4B5FD)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&text_color=C4B5FD&langs_count=8)
+
+---
+
+## ◈ Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced Machine Learning & Deep Learning concepts
+    - System Design fundamentals
+    - Cybersecurity practices
+
+  building:
+    - Computer-vision-powered full-stack applications
+    - Open-source contributions via GSSoC
+
+  open_to:
+    - Full-Stack Development Internships (SDE / AI-ML)
+    - Open Source Collaboration
+    - Hackathon teams building applied-AI products
 ```
 
 ---
 
-### `featured_projects`
+## ◈ Connect
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Face Attendance Recognition System**
-
-Real-time AI attendance system with 95%+ accuracy across 20+ users.
-
-- 5-image face capture + encoding generation + SQLite storage
-- Attendance time cut to under 3 seconds
-- 5 RESTful Flask API endpoints for face-match scoring & CRUD
-- Browser-based live camera capture UI with real-time dashboard
-
-`Python` `Flask` `OpenCV` `face_recognition` `SQLite3` `HTML/CSS/JS`
-
-</td>
-<td width="50%" valign="top">
-
-**Hand Gesture Detection System**
-
-Real-time gesture recognition at 30+ FPS across 2 hands simultaneously.
-
-- Classifies 5+ distinct gestures with under 50ms latency
-- Tracks 21 landmark points per hand (42 total data points)
-- 90%+ accurate gesture classification
-- Reduced detection lag by 40%, sustained across 100+ test frames
-
-`Python` `OpenCV` `MediaPipe`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Currency Converter**
-
-Responsive real-time currency converter with live exchange rates.
-
-- Dynamic light/dark mode with persistent UI state
-- Country flag icons mapped to currency codes
-- Instant conversion on input, no manual convert button
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**More projects on GitHub →**
-
-Explore additional work, contributions, and experiments on my profile.
-
-[View All Repositories](https://github.com/Shlokverma0?tab=repositories)
-
-</td>
-</tr>
-</table>
+[![](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-verma-113713363)
+[![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlokverma0)
+[![](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshlok24@gmail.com)
 
 ---
-
-### `education`
-
-```
-Bharat Institute of Technology, AKTU University        2023 - 2027
-Bachelor of Technology, Computer Science | CGPA: 6.71
-
-BBSSM Inter College, Meerut                             2018 - 2021
-12th Standard (PCM) - 65%  |  10th Standard - 79%
-```
-
----
-
-### `certifications_and_achievements`
-
-- 🏅 Foundational knowledge of AI, Machine Learning, neural networks & responsible AI practices
-- 🏅 Recognized as an active open-source contributor by the GirlScript Foundation
-
----
-
-### `github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%"/>
-
-</div>
-
----
-
-### `languages_spoken`
-
-```
-English · Hindi · German
-```
-
----
-
-### `connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-verma-113713363)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlokverma0)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshlok24@gmail.com)
-
-</div>
-
----
-
-<div align="center">
 
 *"Consistency beats intensity."*
 
----
-
-</div>
+[![](https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,20,24&height=120&section=footer)](https://capsule-render.vercel.app)
