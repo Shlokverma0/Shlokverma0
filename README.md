@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Shlokverma0.png" width="150" height="150" style="border-radius:50%;"/>
-
-# Shlok Verma
-### Full-Stack Developer | AI & ML | JavaScript Engineer
+<img src="banner.svg" width="100%"/>
 
 </div>
 
