@@ -1,6 +1,13 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,20,24&height=200&section=header&text=Shlok%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20%7C%20JavaScript%20Engineer&descSize=16&descAlignY=60)](https://capsule-render.vercel.app)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+full-stack+systems%2C+DSA+problems+solved.%3B+Full+Stack+%2B+AI%2FML+%2B+Competitive+Programming.)](https://git.io/typing-svg)
+<img src="https://github.com/Shlokverma0.png" width="150" height="150" style="border-radius:50%;"/>
+
+# Shlok Verma
+### Full-Stack Developer | AI & ML | JavaScript Engineer
+
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+full-stack+systems%2C+solving+DSA+problems.%3B+Full+Stack+%2B+AI%2FML+%2B+Competitive+Programming.)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/B.Tech%20CSE%20(AI%2FML)-000000?style=flat-square&logo=graduation-cap&logoColor=white)](#)
 [![](https://img.shields.io/badge/Batch-2023--2027-5B21B6?style=flat-square)](#)
@@ -191,5 +198,3 @@ current_focus:
 ---
 
 *"Consistency beats intensity."*
-
-[![](https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=12,20,24&height=120&section=footer)](https://capsule-render.vercel.app)
