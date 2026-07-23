@@ -176,6 +176,7 @@ current_focus:
   building:
     - Computer-vision-powered full-stack applications
     - Open-source contributions via GSSoC
+    - Focus AI
 
   open_to:
     - Full-Stack Development Internships (SDE / AI-ML)
