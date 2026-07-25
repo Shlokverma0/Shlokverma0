@@ -27,7 +27,7 @@
 | **🔭 Currently** | Contributing to open-source repositories via GSSoC |
 |---|---|
 | **🧠 Deepening** | Machine Learning, System Design, Full-Stack Architecture |
-| **📡 Building** | Computer-vision-powered full-stack applications |
+| **📡 Building** | Computer-vision-powered full-stack applications, LLM/RAG systems |
 | **✉️ Open To** | Internships · Open Source Collaboration · Full-Stack/AI-ML Roles |
 
 ---
@@ -46,6 +46,10 @@
 
 ![](https://skillicons.dev/icons?i=flask,mongodb,postgres,mysql&theme=dark)
 
+**AI / ML**
+
+![](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark)
+
 **Tools & Platforms**
 
 ![](https://skillicons.dev/icons?i=git,github,docker,kubernetes&theme=dark)
@@ -58,6 +62,7 @@
 |---|---|---|
 | Full-Stack Web Development | `████████░░` Advanced | React, Flask, REST APIs, responsive UI design |
 | Computer Vision | `███████░░░` Intermediate–Advanced | OpenCV, MediaPipe, face_recognition, real-time video processing |
+| LLMs & RAG Systems | `███████░░░` Intermediate–Advanced | LangChain, ChromaDB, Ollama, vector embeddings, hybrid retrieval |
 | Programming Languages | `████████░░` Advanced | C++, Python, JavaScript, TypeScript, Java |
 | Database Design | `███████░░░` Intermediate | MongoDB, PostgreSQL, MySQL, SQLite |
 | Open Source Collaboration | `███████░░░` Intermediate | Git workflows, PR reviews, issue resolution at GSSoC |
@@ -83,6 +88,22 @@ Contributing to India's largest open-source program (30,000+ participants), work
 ---
 
 ## ◈ Featured Projects
+
+**⬡ DocMind — RAG Chatbot with Live Web Search**
+
+A local-first AI chatbot that answers questions from personal documents using Retrieval-Augmented Generation, with a hybrid fallback to live web search and general LLM knowledge — designed to never leave a query unanswered.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, LangChain, ChromaDB, Ollama (Llama 3.2), Groq API, Streamlit |
+| **Architecture** | 3-tier answering pipeline — document retrieval (RAG) → live web search → LLM general knowledge fallback |
+| **Retrieval** | Vector similarity search over chunked document embeddings (nomic-embed-text / HuggingFace) |
+| **Deployment** | Cloud-hosted on Streamlit Community Cloud using Groq API + HuggingFace embeddings for portability |
+| **Interface** | Streamlit chat UI with persistent chat history and source attribution |
+| **Live Demo** | [docmind-shlok.streamlit.app](https://docmind-shlok.streamlit.app) |
+| **Repository** | [github.com/Shlokverma0/RAG-CHATBOT](https://github.com/Shlokverma0/RAG-CHATBOT) |
+
+Built to go beyond a standard document-QA bot — most RAG demos hallucinate or refuse to answer once a query falls outside the source documents. DocMind routes each query through the most relevant source (docs → web → model knowledge) so it always returns a grounded, useful answer.
 
 **⬡ Face Attendance Recognition System**
 
@@ -172,9 +193,11 @@ current_focus:
     - Advanced Machine Learning & Deep Learning concepts
     - System Design fundamentals
     - Cybersecurity practices
+    - Retrieval-Augmented Generation (RAG) & LLM application design
 
   building:
     - Computer-vision-powered full-stack applications
+    - LLM-powered tools (RAG chatbots, hybrid retrieval systems)
     - Open-source contributions via GSSoC
 
   open_to:
