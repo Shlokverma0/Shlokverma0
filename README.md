@@ -34,7 +34,7 @@ role:         Full-Stack Developer · AI/ML Explorer
 currently:    Contributing to open source via GirlScript Summer of Code (GSSoC)
 deepening:    Machine Learning · System Design · Full-Stack Architecture
 building:     Computer-vision applications · LLM/RAG systems
-open_to:      Internships · Open Source Collaboration · Full-Stack/AI-ML Roles
+open_to:      Internships · Open Source Collaboration · Full-Stack/AI-ML Roles.
 ```
 
 <br/>
