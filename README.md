@@ -292,4 +292,5 @@ open_to:
 
 *"Consistency beats intensity."*
 
-</div>
+![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg#gh-light-mode-only)</div>
