@@ -258,6 +258,16 @@ A responsive, single-page currency converter with live exchange-rate data and no
 
 <br/>
 
+## 📉 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 🎯 Current Focus
 
 ```yaml
@@ -292,5 +302,9 @@ open_to:
 
 *"Consistency beats intensity."*
 
-![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg?v=3#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg?v=3#gh-light-mode-only)
+<br/><br/>
+
+![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg?v=4#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg?v=4#gh-light-mode-only)
+
+</div>
