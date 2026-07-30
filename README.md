@@ -175,10 +175,11 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=tokyo-night&hide_border=true"
-width="100%"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=tokyonight" />
 
 <br>
 
