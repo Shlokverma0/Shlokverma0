@@ -176,7 +176,7 @@ Single-page converter with instant live-rate conversion on input and persistent 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=tokyo-night&hide_border=true"
 width="100%"
 />
 
