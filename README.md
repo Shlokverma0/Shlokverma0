@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+AI+Systems;RAG+%26+Computer+Vision+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-</a>
+<h3 align="center">
+Building intelligent systems, one commit at a time 🚀
+</h3>
 
 **Full-Stack Developer · AI/ML Engineer**
 
