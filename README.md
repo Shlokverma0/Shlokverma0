@@ -51,7 +51,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-## ⚡ Tech Arsenal
+## ⚡ Engineering Stack
 
 | Category | Stack |
 |:--|:--|
@@ -177,7 +177,7 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-## 🌌 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -251,6 +251,6 @@ Actively contributing to **GirlScript Summer of Code (GSSoC)** — a 30,000+ par
 
 *"Consistency beats intensity."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5B21B6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=28&animation=fadeIn&color=0:A855F7,100:5B21B6&section=footer"/>
 
 </div>
