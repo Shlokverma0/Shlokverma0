@@ -177,7 +177,17 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-## 🐍 Contribution Activity
+## 🌱 Open Source
+
+Actively contributing to **GirlScript Summer of Code (GSSoC)** — a 30,000+ participant open-source program.
+
+- 🔀 Resolved bugs and merged feature pull requests across 5+ repositories
+- 👥 Collaborated with 15+ maintainers via issues, PRs, and code review
+- 📚 Practicing conventional commits, rebasing, and review-driven iteration
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
+## 🐍 Contribution Journey
 
 <div align="center">
 
@@ -193,10 +203,12 @@ width="100%"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg"
   />
+
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg"
@@ -207,17 +219,6 @@ width="100%"
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
-
-## 🌱 Open Source
-
-Actively contributing to **GirlScript Summer of Code (GSSoC)** — a 30,000+ participant open-source program.
-
-- 🔀 Resolved bugs and merged feature pull requests across 5+ repositories
-- 👥 Collaborated with 15+ maintainers via issues, PRs, and code review
-- 📚 Practicing conventional commits, rebasing, and review-driven iteration
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
-
 ## 🎯 Current Focus
 
 | Learning | Building | Open To |
