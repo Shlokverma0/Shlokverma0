@@ -181,12 +181,28 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6"
+width="100%"
+/>
 
-<br/>
+<br><br>
 
-![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
