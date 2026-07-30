@@ -70,29 +70,23 @@
 
 ## 💼 Experience
 
-<table>
-<tr><td>
-
-**Machine Learning Intern — Vinnpro Technologies**
+### 🏢 Machine Learning Intern — Vinnpro Technologies
 `July 2026 – August 2026`
 
-- Worked on machine-learning projects from prototyping through evaluation
-- Built and tested AI solutions against real-world data constraints
-- Collaborated closely with developers and mentors on model design
-- Improved model evaluation and deployment workflows
+- Developed and tested machine-learning models.
+- Worked on real-world datasets and model evaluation.
+- Collaborated with mentors on deployment workflows.
+- Improved model accuracy and performance.
 
-</td></tr>
-<tr><td>
+---
 
-**Open Source Contributor — GirlScript Summer of Code (GSSoC)**
-`May 2026 – Present · Remote`
+### 🌱 Open Source Contributor — GSSoC
+`May 2026 – Present`
 
-- Resolved bugs and reviewed pull requests across 5+ repositories
-- Collaborated with 15+ maintainers and contributors
-- Practiced production-grade Git workflows under real maintainer review
-
-</td></tr>
-</table>
+- Resolved bugs and implemented new features.
+- Collaborated with maintainers through pull requests.
+- Followed industry-standard Git workflows.
+- Contributed to multiple repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
@@ -177,17 +171,7 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-## 🌱 Open Source
-
-Actively contributing to **GirlScript Summer of Code (GSSoC)** — a 30,000+ participant open-source program.
-
-- 🔀 Resolved bugs and merged feature pull requests across 5+ repositories
-- 👥 Collaborated with 15+ maintainers via issues, PRs, and code review
-- 📚 Practicing conventional commits, rebasing, and review-driven iteration
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
-
-## 🐍 Contribution Journey
+## 🐍 Open Source Journey
 
 <div align="center">
 
@@ -196,6 +180,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&
 width="100%"
 />
 
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokverma0&theme=github_dark" width="100%"/>
+
 <br><br>
 
 <picture>
@@ -203,12 +191,10 @@ width="100%"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg"
   />
-
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg"
@@ -218,7 +204,17 @@ width="100%"
 
 </div>
 
+---
+
+### 🌱 Open Source Highlights
+
+- 🔀 Contributed to multiple repositories through GSSoC.
+- 🚀 Built AI, RAG, and computer-vision applications.
+- 👥 Collaborated with maintainers through pull requests and issue reviews.
+- ⚡ Continuously improving system design and full-stack engineering skills.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
 ## 🎯 Current Focus
 
 | Learning | Building | Open To |
