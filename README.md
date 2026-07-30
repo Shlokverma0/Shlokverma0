@@ -4,307 +4,255 @@
 
 <br/>
 
-# Shlok Verma
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+AI+Systems;RAG+%26+Computer+Vision+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
-**Full-Stack Developer · AI/ML Explorer · Open Source Contributor**
+### Shlok Verma
+
+**Full-Stack Developer · AI/ML Engineer**
 
 <p>
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%2FML)-000000?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Batch-2023--2027-5B21B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍_Meerut,_India-4C1D95?style=for-the-badge" />
+  <a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p>
-<a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-A855F7?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=5B21B6&label=VIEWS" />
 </p>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
 ## 🧭 About Me
 
-I'm a final-year B.Tech CSE student building at the intersection of **full-stack engineering** and **applied AI** — from computer-vision systems that process live video, to LLM-powered tools that reason over documents and the web. I care about shipping things that actually work end-to-end, not just demos.
+- 🛠️ Full-stack engineer shipping products end-to-end, from model to production interface
+- 🧠 AI/ML engineer building applied systems — neural networks, evaluation, and deployment pipelines
+- 👁️ Computer vision specialist — real-time detection, tracking, and recognition systems
+- 🔗 RAG engineer — hybrid retrieval pipelines combining documents, live search, and LLM reasoning
+- 🌱 Open-source contributor working across live repositories under maintainer review
+- 🧩 Strong problem-solver focused on systems that hold up under real-world conditions, not just demos
 
-```yaml
-role:         Full-Stack Developer · AI/ML Explorer
-currently:    Contributing to open source via GirlScript Summer of Code (GSSoC)
-deepening:    Machine Learning · System Design · Full-Stack Architecture
-building:     Computer-vision applications · LLM/RAG systems
-open_to:      Internships · Open Source Collaboration · Full-Stack/AI-ML Roles.
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-<br/>
-
-## 🛠️ Tech Stack
+## 📡 Tech Radar
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,html,css&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,mongodb,postgres,mysql&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark" />
-
-</td>
+<td valign="top" width="20%"><b>🟣 Expert</b><br/><br/>Python<br/>Git / GitHub</td>
+<td valign="top" width="20%"><b>🔵 Advanced</b><br/><br/>React<br/>Flask<br/>OpenCV<br/>LangChain</td>
+<td valign="top" width="20%"><b>🟢 Intermediate</b><br/><br/>Next.js<br/>PostgreSQL<br/>Docker</td>
+<td valign="top" width="20%"><b>🟡 Learning</b><br/><br/>System Design<br/>Kubernetes<br/>Deep Learning</td>
+<td valign="top" width="20%"><b>⚪ Exploring</b><br/><br/>LLM Agents<br/>Vector Databases</td>
 </tr>
 </table>
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-<br/>
+## ⚡ Tech Arsenal
 
-## 📊 Skill Proficiency
+| Category | Stack |
+|:--|:--|
+| 🚀 **Programming Languages** | <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-5B21B6?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-A855F7?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-5B21B6?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-A855F7?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-5B21B6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-A855F7?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white" /> |
+| 🎨 **Frontend Engineering** | <img src="https://img.shields.io/badge/React-A855F7?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-5B21B6?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-A855F7?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-5B21B6?style=flat-square&logo=bootstrap&logoColor=white" /> |
+| ⚙️ **Backend Engineering** | <img src="https://img.shields.io/badge/Flask-A855F7?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-5B21B6?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-A855F7?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-5B21B6?style=flat-square&logo=express&logoColor=white" /> |
+| 🗄️ **Databases** | <img src="https://img.shields.io/badge/MongoDB-A855F7?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-A855F7?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-5B21B6?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-A855F7?style=flat-square" /> |
+| 🤖 **Artificial Intelligence** | <img src="https://img.shields.io/badge/TensorFlow-5B21B6?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-A855F7?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-A855F7?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-5B21B6?style=flat-square&logo=pandas&logoColor=white" /> |
+| 👁️ **Computer Vision** | <img src="https://img.shields.io/badge/OpenCV-A855F7?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/Face_Recognition-A855F7?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-5B21B6?style=flat-square" /> |
+| 🔗 **RAG & LLM Engineering** | <img src="https://img.shields.io/badge/LangChain-A855F7?style=flat-square" /> <img src="https://img.shields.io/badge/Ollama-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/Groq-A855F7?style=flat-square" /> <img src="https://img.shields.io/badge/Hugging_Face-5B21B6?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_Databases-A855F7?style=flat-square" /> |
+| ☁️ **Cloud & DevOps** | <img src="https://img.shields.io/badge/Docker-A855F7?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-5B21B6?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit_Cloud-A855F7?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-5B21B6?style=flat-square&logo=githubactions&logoColor=white" /> |
+| 🧰 **Developer Tools** | <img src="https://img.shields.io/badge/Git-A855F7?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-5B21B6?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-A855F7?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-5B21B6?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-A855F7?style=flat-square&logo=figma&logoColor=white" /> |
+| 🖥️ **Operating Systems** | <img src="https://img.shields.io/badge/Linux-A855F7?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-5B21B6?style=flat-square&logo=windows&logoColor=white" /> |
 
-| Domain | Level | Details |
-|:--|:--:|:--|
-| Full-Stack Web Development | ████████░░ Advanced | React, Flask, REST APIs, responsive UI design |
-| LLMs & RAG Systems | ███████░░░ Advanced | LangChain, ChromaDB, Ollama, vector embeddings, hybrid retrieval |
-| Computer Vision | ███████░░░ Advanced | OpenCV, MediaPipe, face_recognition, real-time video processing |
-| Programming Languages | ████████░░ Advanced | C++, Python, JavaScript, TypeScript, Java |
-| Database Design | ███████░░░ Intermediate | MongoDB, PostgreSQL, MySQL, SQLite |
-| Open Source Collaboration | ███████░░░ Intermediate | Git workflows, PR reviews, issue resolution at GSSoC |
-| DevOps & Tooling | ██████░░░░ Intermediate | Docker, Kubernetes, Git/GitHub |
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
 ## 💼 Experience
 
 <table>
-<tr>
-<td>
+<tr><td>
 
-### Open Source Contributor — GirlScript Summer of Code (GSSoC)
-**May 2026 – Present · Remote**
+**Machine Learning Intern — Vinnpro Technologies**
+`July 2026 – August 2026`
 
-Contributing to India's largest open-source program (30,000+ participants), working across 5+ repositories under real maintainer review.
+- Worked on machine-learning projects from prototyping through evaluation
+- Built and tested AI solutions against real-world data constraints
+- Collaborated closely with developers and mentors on model design
+- Improved model evaluation and deployment workflows
 
-- Resolved **10+ bugs** and implemented new features across 5+ open-source repositories
-- Collaborated with **15+ maintainers and contributors** via GitHub pull requests, issues, and code reviews
-- Built hands-on experience with Git/GitHub workflows, agile collaboration, and production-level code standards
+</td></tr>
+<tr><td>
 
-<img src="https://img.shields.io/badge/Open%20Source-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Git%2FGitHub-5B21B6?style=flat-square" />
-<img src="https://img.shields.io/badge/Code%20Review-4C1D95?style=flat-square" />
+**Open Source Contributor — GirlScript Summer of Code (GSSoC)**
+`May 2026 – Present · Remote`
 
-</td>
-</tr>
+- Resolved bugs and reviewed pull requests across 5+ repositories
+- Collaborated with 15+ maintainers and contributors
+- Practiced production-grade Git workflows under real maintainer review
+
+</td></tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 🧠 DocMind — RAG Chatbot with Live Web Search
+### 🧠 DocMind
+**RAG Chatbot with Live Web Search**
 
-A local-first AI chatbot that answers questions from personal documents using Retrieval-Augmented Generation, with a hybrid fallback to live web search and general LLM knowledge — designed to never leave a query unanswered.
+Hybrid RAG chatbot with a 3-tier fallback — documents, live web search, then LLM knowledge — so every query gets a grounded answer.
 
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Python, LangChain, ChromaDB, Ollama (Llama 3.2), Groq API, Streamlit |
-| **Architecture** | 3-tier pipeline — document retrieval (RAG) → live web search → LLM knowledge fallback |
-| **Retrieval** | Vector similarity search over chunked document embeddings |
-| **Deployment** | Cloud-hosted on Streamlit Community Cloud with Groq API + HuggingFace embeddings |
-| **Interface** | Streamlit chat UI with persistent history and source attribution |
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
 
-Most RAG demos hallucinate or refuse to answer once a query falls outside the source documents. DocMind routes each query through the most relevant source — docs → web → model knowledge — so it always returns a grounded, useful answer.
+📊 3-tier retrieval pipeline · Cloud-hosted on Streamlit
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-5B21B6?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+**[Live Demo](https://docmind-shlok.streamlit.app)** · **[Repository](https://github.com/Shlokverma0/RAG-CHATBOT)**
 
-**[Live Demo →](https://docmind-shlok.streamlit.app)** · **[Repository →](https://github.com/Shlokverma0/RAG-CHATBOT)**
+</td>
+<td width="50%" valign="top">
+
+### 📸 Face Attendance System
+**Real-Time Face Recognition Pipeline**
+
+End-to-end attendance system covering face capture, encoding, storage, and a live dashboard with delete support.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
+
+📊 95%+ accuracy · <3s logging per user
+
+**[Repository](https://github.com/Shlokverma0)**
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 📸 Face Attendance Recognition System
+### ✋ Hand Gesture Detection
+**Real-Time Landmark Tracking Engine**
 
-A real-time AI attendance system that replaces manual sign-in with face-based verification — from image capture to attendance record in under 3 seconds.
+Touchless gesture recognition tuned to hold frame rate under sustained load, not just ideal conditions.
 
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Python, Flask, OpenCV, face_recognition, SQLite3, HTML/CSS/JS |
-| **Accuracy** | 95%+ recognition accuracy across 20+ users |
-| **Performance** | Attendance logging cut to under 3 seconds per user |
-| **API Layer** | 5 RESTful Flask endpoints for face-match scoring, JSON image handling, and CRUD operations |
-| **Interface** | Browser-based live camera capture UI + real-time dashboard with delete support |
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/MediaPipe-4C1D95?style=flat-square" />
 
-The pipeline handles the full loop — 5-image face capture, encoding generation, SQLite storage — so the recognition model isn't just a script but a usable end-to-end system with its own dashboard.
+📊 30+ FPS · <50ms latency · 90%+ accuracy
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square" />
-
-**[Repository →](https://github.com/Shlokverma0)**
+**[Repository](https://github.com/Shlokverma0)**
 
 </td>
-</tr>
-<tr>
-<td>
-
-### ✋ Hand Gesture Detection System
-
-A real-time gesture recognition engine built for touchless, camera-driven control interfaces.
-
-| Attribute | Detail |
-|:--|:--|
-| **Stack** | Python, OpenCV, MediaPipe |
-| **Throughput** | 30+ FPS across 2 simultaneous hands |
-| **Latency** | Under 50ms per detection, gesture classification for 5+ distinct gestures |
-| **Precision** | Tracks 21 landmark points per hand (42 total data points/frame) at 90%+ accuracy |
-| **Optimization** | Reduced detection lag by 40%, sustained across 100+ consecutive test frames |
-
-The landmark-tracking pipeline was tuned specifically to hold frame rate under load — a common failure point in real-time CV demos — rather than only working in ideal conditions.
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5B21B6?style=flat-square" />
-<img src="https://img.shields.io/badge/MediaPipe-4C1D95?style=flat-square" />
-
-**[Repository →](https://github.com/Shlokverma0)**
-
-</td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
 ### 💱 Currency Converter
+**Zero-Friction Live Conversion**
 
-A responsive, single-page currency converter with live exchange-rate data and no unnecessary UI friction.
+Single-page converter with instant live-rate conversion on input and persistent theme state.
 
-| Attribute | Detail |
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-5B21B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=white" />
+
+📊 No convert button · Persistent dark/light mode
+
+**[Repository](https://github.com/Shlokverma0)**
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&icon_color=A855F7&text_color=C4B5FD&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=dark&hide_border=true&background=0D0D1A&ring=5B21B6&fire=A855F7&currStreakLabel=C4B5FD" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&text_color=C4B5FD&langs_count=8" height="165"/>
+<img src="https://github-readme-trophies.vercel.app/?username=Shlokverma0&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
+## 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6" width="100%"/>
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
+## 🌱 Open Source
+
+Actively contributing to **GirlScript Summer of Code (GSSoC)** — a 30,000+ participant open-source program.
+
+- 🔀 Resolved bugs and merged feature pull requests across 5+ repositories
+- 👥 Collaborated with 15+ maintainers via issues, PRs, and code review
+- 📚 Practicing conventional commits, rebasing, and review-driven iteration
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
+## 🎯 Current Focus
+
+| Learning | Building | Open To |
+|:--|:--|:--|
+| Advanced ML & Deep Learning | CV-powered full-stack apps | Full-Stack / AI-ML roles |
+| System Design fundamentals | LLM-powered retrieval tools | Open source collaboration |
+| Cybersecurity practices | GSSoC contributions | Hackathon teams |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+
+## 🏅 Certifications
+
+| Certification | Focus Area |
 |:--|:--|
-| **Stack** | HTML, CSS, JavaScript |
-| **Feature** | Live multi-currency conversion, instant on input change (no convert button) |
-| **UX** | Dynamic light/dark mode with persistent UI state |
-| **Design Detail** | Country flag icons mapped to currency codes for intuitive selection |
+| AI Foundations | Machine Learning, Neural Networks, Responsible AI |
+| Open-Source Experience — GSSoC | Collaborative Engineering, Code Review, Git Workflows |
+| Machine Learning Internship — Vinnpro Technologies | Applied ML, Model Evaluation, Deployment |
 
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-5B21B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-**[Repository →](https://github.com/Shlokverma0)**
+<div align="center">
 
+## 📬 Contact
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>Code & Projects
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br/>Professional Network
+</td>
+<td align="center" width="25%">
+<a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<br/>Problem Solving
+</td>
+<td align="center" width="25%">
+<a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>Direct Contact
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🎓 Education
-
-| Institution | Degree | Duration | Score |
-|:--|:--|:--:|:--:|
-| Bharat Institute of Technology, AKTU | B.Tech, Computer Science | 2023 – 2027 | CGPA: 6.71 |
-| BBSSM Inter College, Meerut | 12th Standard (PCM) | 2018 – 2021 | 65% (12th) · 79% (10th) |
-
-<br/>
-
-## 🏅 Certifications & Achievements
-
-| Recognition | Details |
-|:--|:--|
-| AI Foundations | Foundational knowledge of AI, Machine Learning, neural networks & responsible AI practices |
-| GSSoC Recognition | Recognized as an active open-source contributor by the GirlScript Foundation |
-| GSSoC Contribution | 10+ bugs resolved, 5+ repositories contributed to |
-
-<br/>
-
-## 🌐 Languages
-
-<img src="https://img.shields.io/badge/English-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Hindi-5B21B6?style=flat-square" />
-<img src="https://img.shields.io/badge/German-4C1D95?style=flat-square" />
-
-<br/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&icon_color=A855F7&text_color=C4B5FD" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=dark&hide_border=true&background=0D0D1A&ring=5B21B6&fire=A855F7&currStreakLabel=C4B5FD" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&text_color=C4B5FD&langs_count=8" />
-
-</div>
-
-<br/>
-
-## 📉 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced Machine Learning & Deep Learning concepts
-  - System Design fundamentals
-  - Cybersecurity practices
-  - Retrieval-Augmented Generation (RAG) & LLM application design
-
-building:
-  - Computer-vision-powered full-stack applications
-  - LLM-powered tools (RAG chatbots, hybrid retrieval systems)
-  - Open-source contributions via GSSoC
-
-open_to:
-  - Full-Stack Development Internships (SDE / AI-ML)
-  - Open Source Collaboration
-  - Hackathon teams building applied-AI products
-```
-
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
 *"Consistency beats intensity."*
 
-<br/><br/>
-
-![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg?v=4#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake.svg?v=4#gh-light-mode-only)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5B21B6&height=100&section=footer" width="100%"/>
 
 </div>
