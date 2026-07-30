@@ -167,6 +167,8 @@ Single-page converter with instant live-rate conversion on input and persistent 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=dark&hide_border=true&bg_color=0D0D1A&title_color=5B21B6&text_color=C4B5FD&langs_count=8" height="165"/>
 <img src="https://github-readme-trophies.vercel.app/?username=Shlokverma0&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" height="165"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true&bg_color=0D0D1A&color=C4B5FD&line=A855F7&point=5B21B6" width="100%"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
