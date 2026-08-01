@@ -149,7 +149,7 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 📊 No convert button · Persistent dark/light mode
 
-**[Repository](https://github.com/Shlokverma0)**
+**[Live Demo](https://stately-kelpie-cc0aed.netlify.app/)**.**[Repository](https://github.com/Shlokverma0)**
 
 </td>
 </tr>
