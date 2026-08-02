@@ -110,21 +110,20 @@ Hybrid RAG chatbot with a 3-tier fallback — documents, live web search, then L
 </td>
 <td width="50%" valign="top">
 
-### 📸 Face Attendance System
-**Real-Time Face Recognition Pipeline**
+<td width="50%" valign="top">
 
-End-to-end attendance system covering face capture, encoding, storage, and a live dashboard with delete support.
+### 🛡️ SecureVision Pro
+**AI-Powered Surveillance & Attendance Platform**
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
+Enterprise-grade platform unifying smart attendance tracking, fire/smoke detection, after-hours intrusion monitoring, and a real-time unified event dashboard into one cohesive system.
 
-📊 95%+ accuracy · <3s logging per user
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/YOLOv8-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
 
-**[Repository](https://github.com/Shlokverma0)**
+📊 Dual-class fire/smoke detection · Real-time unified event feed
+
+**[Repository](https://github.com/Shlokverma0/securevision-pro)** 
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### ✋ Hand Gesture Detection
 **Real-Time Landmark Tracking Engine**
