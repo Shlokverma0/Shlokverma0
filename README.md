@@ -91,7 +91,6 @@ Building intelligent systems, one commit at a time 🚀
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -110,20 +109,21 @@ Hybrid RAG chatbot with a 3-tier fallback — documents, live web search, then L
 </td>
 <td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
 ### 🛡️ SecureVision Pro
-**AI-Powered Surveillance & Attendance Platform**
+**Enterprise AI Surveillance & Attendance Platform**
 
-Enterprise-grade platform unifying smart attendance tracking, fire/smoke detection, after-hours intrusion monitoring, and a real-time unified event dashboard into one cohesive system.
+Unified surveillance system fusing liveness-verified attendance, dual-class fire/smoke detection, and after-hours intrusion monitoring into one real-time event pipeline — built to feel like a production security product, not a single-purpose demo.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/YOLOv8-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/YOLOv8-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-5B21B6?style=flat-square&logo=sqlite&logoColor=white" />
 
-📊 Dual-class fire/smoke detection · Real-time unified event feed
+📊 Unified multi-module event feed · Real-time Email/SMS/WhatsApp alerting
 
-**[Repository](https://github.com/Shlokverma0/securevision-pro)** 
+**[Live Demo](YOUR_LIVE_DEMO_LINK)** · **[Repository](https://github.com/Shlokverma0/securevision-pro)**
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ✋ Hand Gesture Detection
 **Real-Time Landmark Tracking Engine**
@@ -148,12 +148,11 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 📊 No convert button · Persistent dark/light mode
 
-**[Live Demo](https://stately-kelpie-cc0aed.netlify.app/)**.**[Repository](https://github.com/Shlokverma0)**
+**[Live Demo](https://stately-kelpie-cc0aed.netlify.app/)** · **[Repository](https://github.com/Shlokverma0)**
 
 </td>
 </tr>
 </table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
 ## 📊 GitHub Analytics
