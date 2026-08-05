@@ -76,7 +76,7 @@ Building intelligent systems, one commit at a time 🚀
 - Developed and tested machine-learning models.
 - Worked on real-world datasets and model evaluation.
 - Collaborated with mentors on deployment workflows.
-- Improved model accuracy and performance.
+- Improved model accuracy and performance
 
 ---
 
