@@ -148,25 +148,17 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokverma0&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokverma0&theme=github_dark" width="100%" />
 
 <br><br>
 
-<img
-src="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
 ---
 
 ### 🌱 Open Source Highlights
