@@ -1,30 +1,18 @@
+## 🐍 Open Source Journey
+
 <div align="center">
 
-<img src="banner.png" width="100%" alt="banner"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokverma0&theme=github_dark" width="100%" />
 
-<br/>
+<br><br>
 
-<h3 align="center">
-Building intelligent systems, one commit at a time 🚀
-</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-**Full-Stack Developer · AI/ML Engineer**
+<br><br>
 
-<p>
-  <a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-A855F7?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=5B21B6&label=VIEWS" />
-</p>
+<img src="https://raw.githubusercontent.com/Shlokverma0/Shlokverma0/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
 ## 🧭 About Me
 
