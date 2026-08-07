@@ -1,12 +1,33 @@
 <div align="center"> <img src="banner.png" width="100%" alt="banner"/> <br/> <h3 align="center"> Building intelligent systems, one commit at a time 🚀 </h3> **Full-Stack Developer · AI/ML Engineer** <p> <a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a> <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p> <img src="https://img.shields.io/badge/Status-Open_to_Work-A855F7?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=5B21B6&label=VIEWS" /> </p> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 ## 🧭 About Me
 
-- 🛠️ Full-stack engineer shipping products end-to-end, from model to production interface
-- 🧠 AI/ML engineer building applied systems — neural networks, evaluation, and deployment pipelines
-- 👁️ Computer vision specialist — real-time detection, tracking, and recognition systems
-- 🔗 RAG engineer — hybrid retrieval pipelines combining documents, live search, and LLM reasoning
-- 🌱 Open-source contributor working across live repositories under maintainer review
-- 🧩 Strong problem-solver focused on systems that hold up under real-world conditions, not just demos
+```text
+> whoami
+
+Shlok Verma
+├── Education
+│   └── B.Tech Computer Science & Engineering
+│
+├── Experience
+│   ├── Machine Learning Intern
+│   └── Open Source Contributor (GSSoC)
+│
+├── Working With
+│   ├── Machine Learning
+│   ├── Computer Vision
+│   ├── Retrieval-Augmented Generation
+│   └── Full-Stack Development
+│
+├── Currently Exploring
+│   ├── LLM Agents
+│   ├── AI Infrastructure
+│   ├── System Design
+│   └── MLOps
+│
+└── Goal
+    Build intelligent software that is reliable,
+    scalable, and useful in real-world applications.
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
