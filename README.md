@@ -2,7 +2,7 @@
 ## 🧭 About Me
 
 ```text
-> whoami
+
 
 Shlok Verma
 ├── Education
