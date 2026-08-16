@@ -140,7 +140,7 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-5B21B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=white" />
 
-📊 No convert button · Persistent dark/light mode
+📊 No convert button · Persistent dark/light mode.
 
 **[Live Demo](https://stately-kelpie-cc0aed.netlify.app/)** · **[Repository](https://github.com/Shlokverma0)**
 
