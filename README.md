@@ -67,7 +67,7 @@ Shlok Verma
 ### 🏢 Machine Learning Intern — Vinnpro Technologies
 `July 2026 – August 2026`
 
-- Developed and tested machine-learning models.
+- Developed and tested machine-learning(ML) models.
 - Worked on real-world datasets and model evaluation.
 - Collaborated with mentors on deployment workflows.
 - Improved model accuracy and performance.
