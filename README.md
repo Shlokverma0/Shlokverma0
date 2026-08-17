@@ -70,7 +70,7 @@ Shlok Verma
 - Developed and tested machine-learning(ML) models.
 - Worked on real-world datasets and model evaluation.
 - Collaborated with mentors on deployment workflows.
-- Improved model accuracy and performance.
+- Improved model accuracy or performance.
 
 ---
 
