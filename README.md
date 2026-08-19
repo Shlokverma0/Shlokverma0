@@ -178,12 +178,18 @@ Single-page converter with instant live-rate conversion on input and persistent 
 </div>
 ---
 
-### 🌱 Open Source Highlights
+## 🌱 Open Source
 
-- 🔀 Contributed to multiple repositories through GSSoC.
-- 🚀 Built AI, RAG, and computer-vision applications.
-- 👥 Collaborated with maintainers through pull requests and issue reviews.
-- ⚡ Continuously improving system design and full-stack engineering skills.
+### GirlScript Summer of Code
+
+**May 2026 – Present**
+
+Working through the complete contribution cycle:
+
+`Issue → Implementation → Pull Request → Review → Iteration`
+
+Contributions include bug fixes, feature implementation, repository collaboration, and maintainer-reviewed changes.
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
