@@ -64,6 +64,19 @@ Shlok Verma
 
 ## 💼 Experience
 
+### MERN Stack Development Intern — Emertxe Information Technologies
+**August 2026 – Present · Online**
+
+Selected for a **4-week MERN Stack Development internship** focused on practical full-stack web development.
+
+Building **HomelyHub — Property Booking Platform** using the MERN stack, working across frontend, backend, API integration, and database-driven application development.
+
+**Project:** `HomelyHub — Property Booking Platform`
+
+**Focus:** `MongoDB` `Express.js` `React` `Node.js`
+
+---
+
 ### 🏢 Machine Learning Intern — Vinnpro Technologies
 `July 2026 – August 2026`
 
