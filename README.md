@@ -31,7 +31,7 @@ Shlok Verma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-## 📡 Tech  Radar
+## 📡 Tech Radar
 
 <table>
 <tr>
