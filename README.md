@@ -85,14 +85,20 @@ Shlok Verma
 ### Full-Stack Development Intern · Emertxe
 **August 2026 – September 2026**
 
-Worked on full-stack development tasks and contributed to building and improving application features.
+Built **HomelyHub**, a full-stack project, as part of my internship.
+
+- **Project:** [HomelyHub](PROJECT_REPOSITORY_LINK)
+- **Focus:** Full-stack application development
 
 ---
 
 ### Machine Learning Intern · Vinpro Technologies
 **July 2026 – August 2026**
 
-Worked on machine learning tasks and explored data-driven solutions as part of the internship.
+Built **SecureVision Pro**, an AI-powered surveillance and attendance platform.
+
+- **Project:** [SecureVision Pro](https://github.com/Shlokverma0/securevision-pro)
+- **Focus:** Computer vision and machine learning
 
 ---
 
