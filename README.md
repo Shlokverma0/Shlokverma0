@@ -137,9 +137,6 @@ A FastAPI service for current residential price estimates and long-term projecti
 - **Highlights:** Current-price prediction · 10- and 50-year projections · Swagger UI
 - **Repository:** [HouseIQ](https://github.com/Shlokverma0/HouseIQ)
   
-</td>
-</tr>
-</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ### 📊 GitHub Analytics
