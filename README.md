@@ -1,4 +1,21 @@
-<div align="center"> <img src="banner.png" width="100%" alt="banner"/> <br/> <h3 align="center"> Building intelligent systems, one commit at a time 🚀 </h3> **Full-Stack Developer · AI/ML Engineer** <p> <a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a> <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p> <img src="https://img.shields.io/badge/Status-Open_to_Work-A855F7?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=5B21B6&label=VIEWS" /> </p> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<div align="center">
+  <img src="banner.png" width="100%" alt="Shlok Verma profile banner" />
+  <br />
+  <h3>Building intelligent systems, one commit at a time 🚀</h3>
+  <p><strong>Full-Stack Developer · AI/ML Engineer</strong></p>
+  <p>
+    <a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-A855F7?style=for-the-badge" alt="Open to work" />
+    <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=5B21B6&label=VIEWS" alt="Profile views" />
+  </p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" alt="section divider" />
 ## 🧭 About Me
 
 ```text
@@ -9,8 +26,9 @@ Shlok Verma
 │   └── B.Tech Computer Science & Engineering
 │
 ├── Experience
-│   ├── Machine Learning Intern
-│   └── Open Source Contributor (GSSoC)
+│   ├── Full-Stack Development Intern — Emertxe
+│   ├── Machine Learning Intern — Vinpro
+│   └── Open-Source Contributor — GSSoC
 │
 ├── Working With
 │   ├── Machine Learning
@@ -64,36 +82,38 @@ Shlok Verma
 
 ## 💼 Experience
 
-### MERN Stack Development Intern — Emertxe Information Technologies
-**August 2026 – Present · Online**
+### Full-Stack Development Intern — Emertxe Information Technologies
+**August 2026 – September 2026 · Remote**
 
-Selected for a **4-week MERN Stack Development internship** focused on practical full-stack web development.
+Built **HomelyHub**, a property-booking platform, using the MERN stack.
 
-Building **HomelyHub — Property Booking Platform** using the MERN stack, working across frontend, backend, API integration, and database-driven application development.
+- Implemented authentication, property listings, and REST API integration with MongoDB.
+- Created 15+ reusable React components and responsive interfaces.
+- Tested 100+ mock property bookings and reduced average API response time by 35% through query optimization and caching.
+- Optimized MongoDB schemas and indexes, improving retrieval speed by 40%.
 
-**Project:** `HomelyHub — Property Booking Platform`
-
-**Focus:** `MongoDB` `Express.js` `React` `Node.js`
-
----
-
-### 🏢 Machine Learning Intern — Vinnpro Technologies
-`July 2026 – August 2026`
-
-- Developed and tested machine-learning(ML) models.
-- Worked on real-world datasets and model evaluation.
-- Collaborated with mentors on deployment workflows.
-- Improved model accuracy or performance.
+**Technologies:** MongoDB · Express.js · React · Node.js · JavaScript
 
 ---
 
-### 🌱 Open Source Contributor — GSSoC
-`May 2026 – Present`
+### Machine Learning Intern — Vinpro Technologies
+**July 2026 – August 2026 · Ghaziabad, India**
 
-- Resolved bugs and implemented new features.
-- Collaborated with maintainers through pull requests.
-- Followed industry-standard Git workflows.
-- Contributed to multiple repositories.
+- Worked on machine-learning prototypes, model evaluation, and deployment workflows.
+- Reduced model inference time by 25% through hyperparameter tuning and feature engineering.
+- Delivered 3 prototypes in a 4-week sprint and supported deployment of 2 models, reporting 99% uptime.
+
+**Technologies:** Python · Pandas · NumPy · Scikit-learn · OpenCV · AWS
+
+---
+
+### Open-Source Contributor — GirlScript Summer of Code (GSSoC)
+**May 2026 – July 2026 · Remote**
+
+- Contributed bug fixes and features across open-source repositories through issues and pull requests.
+- Resolved 10+ issues across 5 repositories and averaged 5 merged pull requests per week.
+
+**Technologies:** Git · GitHub
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
@@ -125,7 +145,7 @@ Unified surveillance system fusing liveness-verified attendance, dual-class fire
 
 📊 Unified multi-module event feed · Real-time Email/SMS/WhatsApp alerting
 
-**[Live Demo](YOUR_LIVE_DEMO_LINK)** · **[Repository](https://github.com/Shlokverma0/securevision-pro)**
+**[Repository](https://github.com/Shlokverma0/securevision-pro)**
 
 </td>
 </tr>
@@ -156,6 +176,22 @@ Single-page converter with instant live-rate conversion on input and persistent 
 📊 No convert button · Persistent dark/light mode.
 
 **[Live Demo](https://stately-kelpie-cc0aed.netlify.app/)** · **[Repository](https://github.com/Shlokverma0)**
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🏠 HouseIQ
+**Residential Property Price Prediction API**
+
+FastAPI service for estimating current residential property prices and generating scenario-based long-term projections for Indian cities. Includes validated request schemas and interactive OpenAPI documentation.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-5B21B6?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-4C1D95?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+📊 Current-price endpoint · 10- and 50-year projection scenarios · Swagger UI
+
+**[Repository](https://github.com/Shlokverma0/HouseIQ)**
 
 </td>
 </tr>
@@ -203,13 +239,13 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 ### GirlScript Summer of Code
 
-**May 2026 – Present**
+**May 2026 – July 2026**
 
-Working through the complete contribution cycle:
+Worked through the complete contribution cycle:
 
 `Issue → Implementation → Pull Request → Review → Iteration`
 
-Contributions include bug fixes, feature implementation, repository collaboration, and maintainer-reviewed changes.
+Contributions included bug fixes, feature implementation, repository collaboration, and maintainer-reviewed changes.
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
@@ -220,17 +256,15 @@ Contributions include bug fixes, feature implementation, repository collaboratio
 |:--|:--|:--|
 | Advanced ML & Deep Learning | CV-powered full-stack apps | Full-Stack / AI-ML roles |
 | System Design fundamentals | LLM-powered retrieval tools | Open source collaboration |
-| Cybersecurity practices | GSSoC contributions | Hackathon teams |
+| Cybersecurity practices | Open-source collaboration | Hackathon teams |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
-## 🏅 Certifications
+## 🏅 Recognition
 
-| Certification | Focus Area |
+| Recognition | Details |
 |:--|:--|
-| AI Foundations | Machine Learning, Neural Networks, Responsible AI |
-| Open-Source Experience — GSSoC | Collaborative Engineering, Code Review, Git Workflows |
-| Machine Learning Internship — Vinnpro Technologies | Applied ML, Model Evaluation, Deployment |
+| GirlScript Summer of Code (GSSoC) | Recognized as an active open-source contributor by the GirlScript Foundation. |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
 
