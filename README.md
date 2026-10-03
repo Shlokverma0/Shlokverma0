@@ -82,6 +82,25 @@ Shlok Verma
 
 ## 💼 Experience
 
+### Full-Stack Development Intern · Emertxe
+**August 2026 – September 2026**
+
+Worked on full-stack development tasks and contributed to building and improving application features.
+
+---
+
+### Machine Learning Intern · Vinpro Technologies
+**July 2026 – August 2026**
+
+Worked on machine learning tasks and explored data-driven solutions as part of the internship.
+
+---
+
+### Open-Source Contributor · GirlScript Summer of Code
+**May 2026 – July 2026**
+
+Contributed to open-source projects through issue resolution, pull requests, code reviews, and collaboration with project maintainers.
+
 ## 🚀 Featured Projects
 
 ### 🧠 DocMind
