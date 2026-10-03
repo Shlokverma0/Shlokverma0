@@ -1,20 +1,21 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7C5E32&height=220&section=header&text=SHLOK%20VERMA&fontSize=48&fontColor=FFFFFF&fontFamily=Montserrat&animation=fadeIn&fontAlignY=35&desc=AI%20AND%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=60" width="100%" alt="SHLOK VERMA — AI and ML Engineer, Full-Stack Developer" />
   <br />
   <h3>Building intelligent systems, one commit at a time 🚀</h3>
   <p><strong>Full-Stack Developer · AI/ML Engineer</strong></p>
   <p>
     <a href="https://github.com/Shlokverma0"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-8A6D3B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/u/shlokverma0/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-6B542F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Status-Open_to_Work-A855F7?style=for-the-badge" alt="Open to work" />
-    <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=5B21B6&label=VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-C9A45C?style=for-the-badge" alt="Open to work" />
+    <img src="https://komarev.com/ghpvc/?username=Shlokverma0&style=for-the-badge&color=8A6D3B&label=VIEWS" alt="Profile views" />
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" alt="section divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" alt="section divider" />
 ## 🧭 About Me
 
 ```text
@@ -46,7 +47,7 @@ Shlok Verma
     scalable, and useful in real-world applications.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ## 📡 Tech Radar
 
@@ -60,24 +61,24 @@ Shlok Verma
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ## ⚡ Engineering Stack
 
 | Category | Stack |
 |:--|:--|
-| 🚀 **Programming Languages** | <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-5B21B6?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-A855F7?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-5B21B6?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-A855F7?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-5B21B6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-A855F7?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white" /> |
-| 🎨 **Frontend Engineering** | <img src="https://img.shields.io/badge/React-A855F7?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-5B21B6?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-A855F7?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-5B21B6?style=flat-square&logo=bootstrap&logoColor=white" /> |
-| ⚙️ **Backend Engineering** | <img src="https://img.shields.io/badge/Flask-A855F7?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-5B21B6?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-A855F7?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-5B21B6?style=flat-square&logo=express&logoColor=white" /> |
-| 🗄️ **Databases** | <img src="https://img.shields.io/badge/MongoDB-A855F7?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-A855F7?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-5B21B6?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-A855F7?style=flat-square" /> |
-| 🤖 **Artificial Intelligence** | <img src="https://img.shields.io/badge/TensorFlow-5B21B6?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-A855F7?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-A855F7?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-5B21B6?style=flat-square&logo=pandas&logoColor=white" /> |
-| 👁️ **Computer Vision** | <img src="https://img.shields.io/badge/OpenCV-A855F7?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/Face_Recognition-A855F7?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-5B21B6?style=flat-square" /> |
-| 🔗 **RAG & LLM Engineering** | <img src="https://img.shields.io/badge/LangChain-A855F7?style=flat-square" /> <img src="https://img.shields.io/badge/Ollama-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/Groq-A855F7?style=flat-square" /> <img src="https://img.shields.io/badge/Hugging_Face-5B21B6?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_Databases-A855F7?style=flat-square" /> |
-| ☁️ **Cloud & DevOps** | <img src="https://img.shields.io/badge/Docker-A855F7?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-5B21B6?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit_Cloud-A855F7?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-5B21B6?style=flat-square&logo=githubactions&logoColor=white" /> |
-| 🧰 **Developer Tools** | <img src="https://img.shields.io/badge/Git-A855F7?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-5B21B6?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-A855F7?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-5B21B6?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-A855F7?style=flat-square&logo=figma&logoColor=white" /> |
-| 🖥️ **Operating Systems** | <img src="https://img.shields.io/badge/Linux-A855F7?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-5B21B6?style=flat-square&logo=windows&logoColor=white" /> |
+| 🚀 **Programming Languages** | <img src="https://img.shields.io/badge/Python-C9A45C?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-8A6D3B?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-C9A45C?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-8A6D3B?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-C9A45C?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-8A6D3B?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-C9A45C?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-8A6D3B?style=flat-square&logo=postgresql&logoColor=white" /> |
+| 🎨 **Frontend Engineering** | <img src="https://img.shields.io/badge/React-C9A45C?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-8A6D3B?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-C9A45C?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-8A6D3B?style=flat-square&logo=bootstrap&logoColor=white" /> |
+| ⚙️ **Backend Engineering** | <img src="https://img.shields.io/badge/Flask-C9A45C?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-8A6D3B?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-C9A45C?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-8A6D3B?style=flat-square&logo=express&logoColor=white" /> |
+| 🗄️ **Databases** | <img src="https://img.shields.io/badge/MongoDB-C9A45C?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-8A6D3B?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-C9A45C?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-8A6D3B?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-C9A45C?style=flat-square" /> |
+| 🤖 **Artificial Intelligence** | <img src="https://img.shields.io/badge/TensorFlow-8A6D3B?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-C9A45C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-8A6D3B?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-C9A45C?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-8A6D3B?style=flat-square&logo=pandas&logoColor=white" /> |
+| 👁️ **Computer Vision** | <img src="https://img.shields.io/badge/OpenCV-C9A45C?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/Face_Recognition-C9A45C?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-8A6D3B?style=flat-square" /> |
+| 🔗 **RAG & LLM Engineering** | <img src="https://img.shields.io/badge/LangChain-C9A45C?style=flat-square" /> <img src="https://img.shields.io/badge/Ollama-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/Groq-C9A45C?style=flat-square" /> <img src="https://img.shields.io/badge/Hugging_Face-8A6D3B?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_Databases-C9A45C?style=flat-square" /> |
+| ☁️ **Cloud & DevOps** | <img src="https://img.shields.io/badge/Docker-C9A45C?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-8A6D3B?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit_Cloud-C9A45C?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-8A6D3B?style=flat-square&logo=githubactions&logoColor=white" /> |
+| 🧰 **Developer Tools** | <img src="https://img.shields.io/badge/Git-C9A45C?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-8A6D3B?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-C9A45C?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-8A6D3B?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-C9A45C?style=flat-square&logo=figma&logoColor=white" /> |
+| 🖥️ **Operating Systems** | <img src="https://img.shields.io/badge/Linux-C9A45C?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-8A6D3B?style=flat-square&logo=windows&logoColor=white" /> |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ## 💼 Experience
 
@@ -114,7 +115,7 @@ Built **HomelyHub**, a property-booking platform, using the MERN stack.
 
 **Technologies:** Git · GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ## 🚀 Featured Projects
 <table>
@@ -126,7 +127,7 @@ Built **HomelyHub**, a property-booking platform, using the MERN stack.
 
 Hybrid RAG chatbot with a 3-tier fallback — documents, live web search, then LLM knowledge — so every query gets a grounded answer.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-6B542F?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
 
 📊 3-tier retrieval pipeline · Cloud-hosted on Streamlit
 
@@ -140,7 +141,7 @@ Hybrid RAG chatbot with a 3-tier fallback — documents, live web search, then L
 
 Unified surveillance system fusing liveness-verified attendance, dual-class fire/smoke detection, and after-hours intrusion monitoring into one real-time event pipeline — built to feel like a production security product, not a single-purpose demo.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/YOLOv8-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-5B21B6?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/YOLOv8-6B542F?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-8A6D3B?style=flat-square&logo=sqlite&logoColor=white" />
 
 📊 Unified multi-module event feed · Real-time Email/SMS/WhatsApp alerting
 
@@ -156,7 +157,7 @@ Unified surveillance system fusing liveness-verified attendance, dual-class fire
 
 Touchless gesture recognition tuned to hold frame rate under sustained load, not just ideal conditions.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5B21B6?style=flat-square" /> <img src="https://img.shields.io/badge/MediaPipe-4C1D95?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/MediaPipe-6B542F?style=flat-square" />
 
 📊 30+ FPS · <50ms latency · 90%+ accuracy
 
@@ -170,7 +171,7 @@ Touchless gesture recognition tuned to hold frame rate under sustained load, not
 
 Single-page converter with instant live-rate conversion on input and persistent theme state.
 
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-5B21B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-8A6D3B?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-6B542F?style=flat-square&logo=javascript&logoColor=white" />
 
 📊 No convert button · Persistent dark/light mode.
 
@@ -186,7 +187,7 @@ Single-page converter with instant live-rate conversion on input and persistent 
 
 FastAPI service for estimating current residential property prices and generating scenario-based long-term projections for Indian cities. Includes validated request schemas and interactive OpenAPI documentation.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-5B21B6?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-4C1D95?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-8A6D3B?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-6B542F?style=flat-square&logo=scikitlearn&logoColor=white" />
 
 📊 Current-price endpoint · 10- and 50-year projection scenarios · Swagger UI
 
@@ -195,19 +196,19 @@ FastAPI service for estimating current residential property prices and generatin
 </td>
 </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Shlokverma0&show_icons=true&bg_color=111827&title_color=C9A45C&text_color=F3F4F6&icon_color=C9A45C&border_color=7C5E32&hide_border=true" width="49%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=tokyonight&hide_border=true" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlokverma0&theme=gruvbox&hide_border=true" width="49%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokverma0&layout=compact&bg_color=111827&title_color=C9A45C&text_color=F3F4F6&icon_color=C9A45C&border_color=7C5E32&hide_border=true" width="50%">
 
 </div>
 
@@ -223,11 +224,11 @@ FastAPI service for estimating current residential property prices and generatin
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokverma0&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shlokverma0&theme=github_dark&title_color=C9A45C&text_color=E5E7EB&bg_color=111827&border_color=7C5E32&icon_color=C9A45C&chart_color=C9A45C" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokverma0&bg_color=111827&color=E5E7EB&title_color=C9A45C&line=C9A45C&point=E6C878&area_color=7C5E32&hide_border=true&area=true" width="100%" />
 
 <br><br>
 
@@ -247,7 +248,7 @@ Worked through the complete contribution cycle:
 Contributions included bug fixes, feature implementation, repository collaboration, and maintainer-reviewed changes.
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ## 🎯 Current Focus
 
@@ -257,7 +258,7 @@ Contributions included bug fixes, feature implementation, repository collaborati
 | System Design fundamentals | LLM-powered retrieval tools | Open source collaboration |
 | Cybersecurity practices | Open-source collaboration | Hackathon teams |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 ## 🏅 Recognition
 
@@ -265,7 +266,7 @@ Contributions included bug fixes, feature implementation, repository collaborati
 |:--|:--|
 | GirlScript Summer of Code (GSSoC) | Recognized as an active open-source contributor by the GirlScript Foundation. |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:5B21B6&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
 
 <div align="center">
 
@@ -278,7 +279,7 @@ Contributions included bug fixes, feature implementation, repository collaborati
 <br/>Code & Projects
 </td>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shlok-verma-113713363"><img src="https://img.shields.io/badge/LinkedIn-8A6D3B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br/>Professional Network
 </td>
 <td align="center" width="25%">
@@ -286,7 +287,7 @@ Contributions included bug fixes, feature implementation, repository collaborati
 <br/>Problem Solving
 </td>
 <td align="center" width="25%">
-<a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:vshlok24@gmail.com"><img src="https://img.shields.io/badge/Email-6B542F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>Direct Contact
 </td>
 </tr>
@@ -296,6 +297,6 @@ Contributions included bug fixes, feature implementation, repository collaborati
 
 *"Consistency beats intensity."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=28&animation=fadeIn&color=0:A855F7,100:5B21B6&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=28&animation=fadeIn&color=0:111827,100:7C5E32&section=footer"/>
 
 </div>
