@@ -82,117 +82,61 @@ Shlok Verma
 
 ## 💼 Experience
 
-### Full-Stack Development Intern — Emertxe Information Technologies
-**August 2026 – September 2026 · Remote**
-
-Built **HomelyHub**, a property-booking platform, using the MERN stack.
-
-- Implemented authentication, property listings, and REST API integration with MongoDB.
-- Created 15+ reusable React components and responsive interfaces.
-- Tested 100+ mock property bookings and reduced average API response time by 35% through query optimization and caching.
-- Optimized MongoDB schemas and indexes, improving retrieval speed by 40%.
-
-**Technologies:** MongoDB · Express.js · React · Node.js · JavaScript
-
----
-
-### Machine Learning Intern — Vinpro Technologies
-**July 2026 – August 2026 · Ghaziabad, India**
-
-- Worked on machine-learning prototypes, model evaluation, and deployment workflows.
-- Reduced model inference time by 25% through hyperparameter tuning and feature engineering.
-- Delivered 3 prototypes in a 4-week sprint and supported deployment of 2 models, reporting 99% uptime.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn · OpenCV · AWS
-
----
-
-### Open-Source Contributor — GirlScript Summer of Code (GSSoC)
-**May 2026 – July 2026 · Remote**
-
-- Contributed bug fixes and features across open-source repositories through issues and pull requests.
-- Resolved 10+ issues across 5 repositories and averaged 5 merged pull requests per week.
-
-**Technologies:** Git · GitHub
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
-
 ## 🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧠 DocMind
 **RAG Chatbot with Live Web Search**
 
-Hybrid RAG chatbot with a 3-tier fallback — documents, live web search, then LLM knowledge — so every query gets a grounded answer.
+A hybrid RAG chatbot with a three-step retrieval flow: documents, live web search, then LLM knowledge.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-6B542F?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+- **Tech:** `Python` · `LangChain` · `ChromaDB` · `Streamlit`
+- **Highlights:** Three-tier retrieval pipeline · Hosted on Streamlit
+- **Links:** [Live Demo](https://docmind-shlok.streamlit.app/) · [Repository](https://github.com/Shlokverma0/RAG-CHATBOT)
 
-📊 3-tier retrieval pipeline · Cloud-hosted on Streamlit
-
-**[Live Demo](https://docmind-shlok.streamlit.app)** · **[Repository](https://github.com/Shlokverma0/RAG-CHATBOT)**
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🛡️ SecureVision Pro
-**Enterprise AI Surveillance & Attendance Platform**
+**AI Surveillance and Attendance Platform**
 
-Unified surveillance system fusing liveness-verified attendance, dual-class fire/smoke detection, and after-hours intrusion monitoring into one real-time event pipeline — built to feel like a production security product, not a single-purpose demo.
+A real-time event pipeline combining liveness-verified attendance, fire and smoke detection, and after-hours intrusion monitoring.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/YOLOv8-6B542F?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-8A6D3B?style=flat-square&logo=sqlite&logoColor=white" />
+- **Tech:** `Python` · `Flask` · `YOLOv8` · `OpenCV` · `SQLite`
+- **Highlights:** Unified event feed · Email, SMS, and WhatsApp alerts
+- **Repository:** [SecureVision Pro](https://github.com/Shlokverma0/securevision-pro)
 
-📊 Unified multi-module event feed · Real-time Email/SMS/WhatsApp alerting
-
-**[Repository](https://github.com/Shlokverma0/securevision-pro)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### ✋ Hand Gesture Detection
-**Real-Time Landmark Tracking Engine**
+**Real-Time Landmark Tracking**
 
-Touchless gesture recognition tuned to hold frame rate under sustained load, not just ideal conditions.
+A touchless gesture-recognition system that tracks hand landmarks from a live camera feed.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-8A6D3B?style=flat-square" /> <img src="https://img.shields.io/badge/MediaPipe-6B542F?style=flat-square" />
+- **Tech:** `Python` · `OpenCV` · `MediaPipe`
+- **Highlights:** `30+ FPS` · `<50 ms` latency · `90%+` accuracy
+- **Repository:** [View my GitHub profile](https://github.com/Shlokverma0)
 
-📊 30+ FPS · <50ms latency · 90%+ accuracy
-
-**[Repository](https://github.com/Shlokverma0)**
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 💱 Currency Converter
-**Zero-Friction Live Conversion**
+**Live Currency Conversion**
 
-Single-page converter with instant live-rate conversion on input and persistent theme state.
+A single-page converter with live exchange rates, instant conversion, and a persistent dark/light theme.
 
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-8A6D3B?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-6B542F?style=flat-square&logo=javascript&logoColor=white" />
+- **Tech:** `HTML` · `CSS` · `JavaScript`
+- **Highlights:** Instant conversion · No convert button · Persistent theme
+- **Links:** [Live Demo](https://stately-kelpie-cc0aed.netlify.app/) · [View my GitHub profile](https://github.com/Shlokverma0)
 
-📊 No convert button · Persistent dark/light mode.
-
-**[Live Demo](https://stately-kelpie-cc0aed.netlify.app/)** · **[Repository](https://github.com/Shlokverma0)**
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
+---
 
 ### 🏠 HouseIQ
 **Residential Property Price Prediction API**
 
-FastAPI service for estimating current residential property prices and generating scenario-based long-term projections for Indian cities. Includes validated request schemas and interactive OpenAPI documentation.
+A FastAPI service for current residential price estimates and long-term projection scenarios for Indian cities.
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-8A6D3B?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-6B542F?style=flat-square&logo=scikitlearn&logoColor=white" />
-
-📊 Current-price endpoint · 10- and 50-year projection scenarios · Swagger UI
-
-**[Repository](https://github.com/Shlokverma0/HouseIQ)**
-
+- **Tech:** `Python` · `FastAPI` · `Scikit-learn`
+- **Highlights:** Current-price prediction · 10- and 50-year projections · Swagger UI
+- **Repository:** [HouseIQ](https://github.com/Shlokverma0/HouseIQ)
+  
 </td>
 </tr>
 </table>
