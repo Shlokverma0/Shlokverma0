@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Shlok Verma profile banner" />
+  ![Shlok Verma — AI and ML Engineer | Full-Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:5B21B6&height=220&section=header&text=Shlok%20Verma&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20and%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=60)
   <br />
   <h3>Building intelligent systems, one commit at a time 🚀</h3>
   <p><strong>Full-Stack Developer · AI/ML Engineer</strong></p>
