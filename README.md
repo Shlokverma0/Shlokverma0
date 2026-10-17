@@ -152,17 +152,24 @@ A single-page converter with live exchange rates, instant conversion, and a pers
 - **Links:** [Live Demo](https://stately-kelpie-cc0aed.netlify.app/) · [View my GitHub profile](https://github.com/Shlokverma0)
 
 ---
+### 🏠 HouseIQ — Indian Property Insights
 
-### 🏠 HouseIQ
-**Residential Property Price Prediction API**
+A FastAPI-powered web app for estimating residential property values and exploring long-term forecast scenarios across Indian cities.
 
-A FastAPI service for current residential price estimates and long-term projection scenarios for Indian cities.
+- **Main estimate:** City reference rate × property area, with small year-built and parking adjustments. If a city has no configured reference rate, users can enter one manually.
+- **Forecasts:** 5–50-year illustrative scenarios based on user-provided economic assumptions; not city-specific or guaranteed.
+- **ML comparison:** A scikit-learn demo trained on synthetic Kaggle data—not a real-market valuation.
+- **Authentication:** Email/password and Google Sign-In, with optional reCAPTCHA verification.
 
-- **Tech:** `Python` · `FastAPI` · `Scikit-learn`
-- **Highlights:** Current-price prediction · 10- and 50-year projections · Swagger UI
-- **Repository:** [HouseIQ](https://github.com/Shlokverma0/HouseIQ)
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" />
+**Tech:** `Python` · `FastAPI` · `Scikit-learn` · `Pandas` · `SQLite`
+
+**Live app:** [Sign in to HouseIQ](https://houseiq-1ttf.onrender.com/login) · [API documentation](https://houseiq-1ttf.onrender.com/docs) · **Repository:** [Shlokverma0/HouseIQ](https://github.com/Shlokverma0/HouseIQ)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shlokverma0/HouseIQ/main/assets/screenshots/login-screen.png" alt="HouseIQ sign-in screen" width="720" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" alt="" />
 
 ### 📊 GitHub Analytics
 
