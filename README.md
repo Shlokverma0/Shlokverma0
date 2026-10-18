@@ -176,8 +176,9 @@ A FastAPI-powered web app for estimating residential property values and explori
 A MERN application for browsing property stays, publishing listings, and making demonstration reservations. Hosts can manage their listings, and optional Groq-powered tools draft listing descriptions and trip plans. Reservations are demonstrations; the app does not process payments.
 
 - **Tech:** `React` · `Vite` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `JWT`
+- **Live app:** [homelyhub-app-np20.onrender.com](https://homelyhub-app-np20.onrender.com)
 - **Repository:** [Shlokverma0/HomelyHub](https://github.com/Shlokverma0/HomelyHub)
-- **API:** [Route overview](https://github.com/Shlokverma0/HomelyHub#api-overview)
+- **API:** [Health check](https://homelyhub-app-np20.onrender.com/health) · [Route overview](https://github.com/Shlokverma0/HomelyHub#api-overview)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" alt="" />
 
