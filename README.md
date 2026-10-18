@@ -165,10 +165,6 @@ A FastAPI-powered web app for estimating residential property values and explori
 
 **Live app:** [Sign in to HouseIQ](https://houseiq-1ttf.onrender.com/login) · [API documentation](https://houseiq-1ttf.onrender.com/docs) · **Repository:** [Shlokverma0/HouseIQ](https://github.com/Shlokverma0/HouseIQ)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shlokverma0/HouseIQ/main/assets/screenshots/login-screen.png" alt="HouseIQ sign-in screen" width="720" />
-</p>
-
 ---
 
 ### 🏘️ HomelyHub — Property Booking Platform
