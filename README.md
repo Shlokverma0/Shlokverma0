@@ -87,7 +87,7 @@ Shlok Verma
 
 Built **HomelyHub**, a full-stack project, as part of my internship.
 
-- **Project:** [HomelyHub](PROJECT_REPOSITORY_LINK)
+- **Project:** [HomelyHub](https://github.com/Shlokverma0/HomelyHub)
 - **Focus:** Full-stack application development
 
 ---
@@ -168,6 +168,16 @@ A FastAPI-powered web app for estimating residential property values and explori
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shlokverma0/HouseIQ/main/assets/screenshots/login-screen.png" alt="HouseIQ sign-in screen" width="720" />
 </p>
+
+---
+
+### 🏘️ HomelyHub — Property Booking Platform
+
+A MERN application for browsing property stays, publishing listings, and making demonstration reservations. Hosts can manage their listings, and optional Groq-powered tools draft listing descriptions and trip plans. Reservations are demonstrations; the app does not process payments.
+
+- **Tech:** `React` · `Vite` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `JWT`
+- **Repository:** [Shlokverma0/HomelyHub](https://github.com/Shlokverma0/HomelyHub)
+- **API:** [Route overview](https://github.com/Shlokverma0/HomelyHub#api-overview)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:C9A45C&height=2&width=100%" alt="" />
 
