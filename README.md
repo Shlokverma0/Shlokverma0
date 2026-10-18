@@ -173,9 +173,9 @@ A FastAPI-powered web app for estimating residential property values and explori
 
 ### 🏘️ HomelyHub — Property Booking Platform
 
-A MERN application for browsing property stays, publishing listings, and making demonstration reservations. Hosts can manage their listings, and optional Groq-powered tools draft listing descriptions and trip plans. Reservations are demonstrations; the app does not process payments.
+A full-stack property-booking app for browsing stays, publishing listings, and making demonstration reservations. Hosts can manage their listings, and optional Groq-powered tools can draft listing descriptions and generate trip plans. Reservations are for demonstration only; the app does not process payments.
 
-- **Tech:** `React` · `Vite` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `JWT`
+- **Tech:** `React` · `Vite` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `JWT` · `Groq` · `Render`
 - **Live app:** [homelyhub-app-np20.onrender.com](https://homelyhub-app-np20.onrender.com)
 - **Repository:** [Shlokverma0/HomelyHub](https://github.com/Shlokverma0/HomelyHub)
 - **API:** [Health check](https://homelyhub-app-np20.onrender.com/health) · [Route overview](https://github.com/Shlokverma0/HomelyHub#api-overview)
